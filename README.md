@@ -1,1 +1,1 @@
-TinDog Starting Files
+Similar to Tinder homepage
