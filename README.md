@@ -1,2 +1,1 @@
-# Tindog-Homepage
-Homepage similar to Tinder website 
+TinDog Starting Files
